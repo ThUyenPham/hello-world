@@ -1,2 +1,2 @@
 # hello-world
-Practice makes perfect
+Practice makes perfect. Let's get this project underway.
